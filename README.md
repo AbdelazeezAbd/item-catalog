@@ -16,7 +16,7 @@ items. OAuth2 provides authentication for further CRUD functionality on the appl
 1. install [vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. Launch the Vagrant VM (vagrant up)
 3. Log into Vagrant VM (vagrant ssh)
-4. Navigate (cd vagrant/catalog/item-catalog)
+4. Navigate (cd item-catalog/catalog/item-catalog)
 5. The app imports requests which is not on this vm. Run sudo pip install requests
 6. Run (python database_setup.py)
 7. Run (python lotsofmenus)
