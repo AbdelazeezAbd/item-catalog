@@ -21,7 +21,7 @@ items. OAuth2 provides authentication for further CRUD functionality on the appl
 6. Run (python database_setup.py)
 7. Run (python lotsofmenus)
 8. Run (python project.py)
-9. Go to [http://localhost:7777](http://localhost:5000)
+9. Go to [http://localhost:5000](http://localhost:5000)
 
 ## Create Google Sign in
 
