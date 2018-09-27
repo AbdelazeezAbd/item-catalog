@@ -21,7 +21,7 @@ items. OAuth2 provides authentication for further CRUD functionality on the appl
 6. Run (python database_setup.py)
 7. Run (python lotsofmenus)
 8. Run (python project.py)
-9. Go to [http://localhost:7777](http://localhost:7777)
+9. Go to [http://localhost:7777](http://localhost:5000)
 
 ## Create Google Sign in
 
@@ -31,7 +31,7 @@ items. OAuth2 provides authentication for further CRUD functionality on the appl
 4. Select Create Crendentials > OAuth Client ID
 5. Select Web application
 6. Enter name 'Item-Catalog'
-7. Authorized JavaScript origins = 'http://localhost:7777'
+7. Authorized JavaScript origins = 'http://localhost:5000'
 8. Select Create
 9. Copy the Client ID and paste it into the data-clientid in login.html
 10. On the Dev Console Select Download JSON
